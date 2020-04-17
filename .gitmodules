@@ -1,0 +1,3 @@
+[submodule "jugtours"]
+	path = jugtours
+	url = ./jugtours/
